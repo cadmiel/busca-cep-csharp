@@ -1,0 +1,15 @@
+c:\users\cadmiel\documents\visual studio 2012\Projects\BuscaCEP\BuscaCEP\bin\Debug\BuscaCEP.exe.config
+c:\users\cadmiel\documents\visual studio 2012\Projects\BuscaCEP\BuscaCEP\bin\Debug\BuscaCEP.exe
+c:\users\cadmiel\documents\visual studio 2012\Projects\BuscaCEP\BuscaCEP\bin\Debug\BuscaCEP.pdb
+c:\users\cadmiel\documents\visual studio 2012\Projects\BuscaCEP\BuscaCEP\bin\Debug\Correios.Net.dll
+c:\users\cadmiel\documents\visual studio 2012\Projects\BuscaCEP\BuscaCEP\bin\Debug\Correios.Net.pdb
+c:\users\cadmiel\documents\visual studio 2012\Projects\BuscaCEP\BuscaCEP\obj\Debug\BuscaCEP.csprojResolveAssemblyReference.cache
+c:\users\cadmiel\documents\visual studio 2012\Projects\BuscaCEP\BuscaCEP\obj\Debug\BuscaCEP.Form1.resources
+c:\users\cadmiel\documents\visual studio 2012\Projects\BuscaCEP\BuscaCEP\obj\Debug\BuscaCEP.Properties.Resources.resources
+c:\users\cadmiel\documents\visual studio 2012\Projects\BuscaCEP\BuscaCEP\obj\Debug\BuscaCEP.csproj.GenerateResource.Cache
+c:\users\cadmiel\documents\visual studio 2012\Projects\BuscaCEP\BuscaCEP\obj\Debug\BuscaCEP.exe
+c:\users\cadmiel\documents\visual studio 2012\Projects\BuscaCEP\BuscaCEP\obj\Debug\BuscaCEP.pdb
+c:\users\cadmiel\documents\visual studio 2012\Projects\BuscaCEP\BuscaCEP\bin\Debug\BuscaCEP.exe.manifest
+c:\users\cadmiel\documents\visual studio 2012\Projects\BuscaCEP\BuscaCEP\bin\Debug\BuscaCEP.application
+c:\users\cadmiel\documents\visual studio 2012\Projects\BuscaCEP\BuscaCEP\obj\Debug\BuscaCEP.exe.manifest
+c:\users\cadmiel\documents\visual studio 2012\Projects\BuscaCEP\BuscaCEP\obj\Debug\BuscaCEP.application
